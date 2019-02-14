@@ -19,6 +19,7 @@
 .navText{
   color: black;
 }
+
 .avatar{
   height: 700px;
 }
@@ -407,6 +408,7 @@ button {
       padding-top: 30%;
       width: 100%; 
     }
+    
   }
     @media only screen and (min-device-width : 480px) and (max-device-width : 2200px) {
     /* Styles */
@@ -432,6 +434,7 @@ button {
     .cvBack{
       height: 100vh;
     }
+    
     }
     @media only screen and (min-device-width : 480px) and (max-device-width : 980px) {
       /* Styles */
@@ -452,6 +455,7 @@ button {
       .terminalText{
         display: none;
       }
+      
       .paddedtext1{
         display: none;
       }

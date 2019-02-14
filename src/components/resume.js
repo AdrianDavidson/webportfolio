@@ -16,7 +16,7 @@ class Resume extends Component {
             <div className="cvLink">
             {/* <div id ="outline"> */}
             {/* <button a href="examplefile.pdf" download>button</button> */}
-                <a href="examplefile.pdf" download style={{color: 'red'}}>Download</a>
+                <a href="./cv.pdf" download style={{color: 'red'}}>Download</a>
             </div>
             </div>
         // </div>

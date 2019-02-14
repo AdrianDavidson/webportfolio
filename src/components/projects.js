@@ -21,8 +21,8 @@ class Projects extends Component {
                 A college assignment to demonstrate my css animation skills.
             </CardText>
               <CardActions border>
-                <Button colored>GitHub</Button>
-                <Button colored>View Live</Button>
+                <Button colored href="https://github.com/AdrianDavidson/advancedCSS_Module">GitHub</Button>
+                {/* <Button colored>View Live</Button> */}
               </CardActions>
               <CardMenu style={{ color: '#fff' }}>
 
@@ -35,8 +35,8 @@ class Projects extends Component {
                 A college assignment where we had to use nothing but css to animate a page.
             </CardText>
               <CardActions border>
-                <Button colored>GitHub</Button>
-                <Button colored>View Live</Button>
+                <Button colored href="https://github.com/AdrianDavidson/AdnacedCSS_Module2">GitHub</Button>
+                {/* <Button colored>View Live</Button> */}
               </CardActions>
               <CardMenu style={{ color: '#fff' }}>
 
@@ -49,8 +49,8 @@ class Projects extends Component {
                 A college assignment demonstrating basic use of JavaScript
             </CardText>
               <CardActions border>
-                <Button colored>GitHub</Button>
-                <Button colored>View Live</Button>
+                <Button colored href="https://github.com/AdrianDavidson/TshirtShop">GitHub</Button>
+                {/* <Button colored>View Live</Button> */}
               </CardActions>
               <CardMenu style={{ color: '#fff' }}>
 
@@ -62,18 +62,18 @@ class Projects extends Component {
             <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(../imgs/proj4.png) center / cover' }} ></CardTitle>
               <CardText>
-                A college assignment demonstrating basic use of JavaScript
+                A college assignment demonstrating basic use of PHP, aswell as the use of xampp and apache
             </CardText>
               <CardActions border>
-                <Button colored>GitHub</Button>
-                <Button colored>View Live</Button>
+                <Button colored href="https://github.com/AdrianDavidson/PizzaSite/tree/master/htdocs">GitHub</Button>
+                {/* <Button colored>View Live</Button> */}
               </CardActions>
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
             </Card>
             {/* Project 2 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment where we had to use nothing but css to animate a page.
@@ -85,9 +85,9 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
             {/* Project 3 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment where we had to use nothing but css to animate a page.
@@ -99,7 +99,7 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
           </div>
         </div>
       )
@@ -107,8 +107,9 @@ class Projects extends Component {
       return (
         <div>
           <div id="projects-grid1">
+          <h1> Under construction, Sorry for any inconvinience</h1>
             {/* Project 1 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle className="hi" style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment to demonstrate my css animation skills.
@@ -120,9 +121,9 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
             {/* Project 2 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment where we had to use nothing but css to animate a page.
@@ -134,9 +135,9 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
             {/* Project 3 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment demonstrating basic use of JavaScript
@@ -148,7 +149,7 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
           </div>
         </div>
 
@@ -157,8 +158,9 @@ class Projects extends Component {
       return (
         <div>
           <div id="projects-grid1">
+          <h1>Still under construction.. sorry for any inconvinience</h1>
             {/* Project 1 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle className="hi" style={{ color: '#fff', height: '176px', background: 'url(https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment to demonstrate my css animation skills.
@@ -170,9 +172,9 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
             {/* Project 2 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment where we had to use nothing but css to animate a page.
@@ -184,9 +186,9 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
             {/* Project 3 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://diylogodesigns.com/wp-content/uploads/2017/07/java-logo-vector-768x768.png) center / cover' }} ></CardTitle>
               <CardText>
                 A college assignment demonstrating basic use of JavaScript
@@ -198,7 +200,7 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
           </div>
         </div>
 
