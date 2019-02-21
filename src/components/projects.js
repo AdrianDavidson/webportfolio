@@ -73,10 +73,10 @@ class Projects extends Component {
               </CardMenu>
             </Card>
             {/* Project 2 */}
-            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
+            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            <CardTitle style={{ color: '#fff', height: '176px', background: 'url(../imgs/proj5.png) center / cover' }} ></CardTitle>
               <CardText>
-                A college assignment where we had to use nothing but css to animate a page.
+                D3 Project.
             </CardText>
               <CardActions border>
                 <Button colored>GitHub</Button>
@@ -85,12 +85,12 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card> */}
+            </Card>
             {/* Project 3 */}
-            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
-                A college assignment where we had to use nothing but css to animate a page.
+                OLD PORTFOLIO.
             </CardText>
               <CardActions border>
                 <Button colored>GitHub</Button>
@@ -99,7 +99,7 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card> */}
+            </Card>
           </div>
         </div>
       )
