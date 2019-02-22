@@ -87,7 +87,7 @@ class Projects extends Component {
               </CardMenu>
             </Card>
             {/* Project 3 */}
-            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
                 OLD PORTFOLIO.
@@ -99,7 +99,7 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card> */}
+            </Card>
           </div>
         </div>
       )
