@@ -80,14 +80,14 @@ class Projects extends Component {
             </CardText>
               <CardActions border>
                 <Button colored>GitHub</Button>
-                <Button colored>View Live</Button>
+                {/* <Button colored>View Live</Button> */}
               </CardActions>
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
             </Card>
             {/* Project 3 */}
-            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
               <CardText>
                 OLD PORTFOLIO.
@@ -99,7 +99,7 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card>
+            </Card> */}
           </div>
         </div>
       )
@@ -107,12 +107,12 @@ class Projects extends Component {
       return (
         <div>
           <div id="projects-grid1">
-          <h1> Under construction, Sorry for any inconvinience</h1>
+          {/* <h1> Under construction, Sorry for any inconvinience</h1> */}
             {/* Project 1 */}
-            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle className="hi" style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
+            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+              <CardTitle className="hi" style={{ color: '#fff', height: '176px', background: 'url(../imgs/proj6.png) center / cover' }} ></CardTitle>
               <CardText>
-                A college assignment to demonstrate my css animation skills.
+                A simple microservice application. a command line chat system.
           </CardText>
               <CardActions border>
                 <Button colored>GitHub</Button>
@@ -121,12 +121,12 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card> */}
+            </Card>
             {/* Project 2 */}
-            {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
-              <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
+            <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
+              <CardTitle style={{ color: '#fff', height: '176px', background: 'url(../imgs/proj7.png) center / cover' }} ></CardTitle>
               <CardText>
-                A college assignment where we had to use nothing but css to animate a page.
+                A college assignment where we had to develop a microservice shopping cart application.
           </CardText>
               <CardActions border>
                 <Button colored>GitHub</Button>
@@ -135,7 +135,7 @@ class Projects extends Component {
               <CardMenu style={{ color: '#fff' }}>
 
               </CardMenu>
-            </Card> */}
+            </Card>
             {/* Project 3 */}
             {/* <Card shadow={5} style={{ minWidth: '450', margin: 'auto' }}>
               <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://vignette.wikia.nocookie.net/project-pokemon/images/4/47/Placeholder.png/revision/latest?cb=20170330235552) center / cover' }} ></CardTitle>
